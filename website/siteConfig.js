@@ -13,7 +13,7 @@ const users = [];
 
 const siteConfig = {
     title: 'Angela Krone', // Title for your website.
-    tagline: 'See a need, fill a need.',
+    tagline: 'See a need, fill a need. :)',
     profilePhoto: 'img/profile.png',
     url: 'https://angelakrone.github.io', // Your website URL
     baseUrl: '/test-portfolio/', // Base URL for your project */
